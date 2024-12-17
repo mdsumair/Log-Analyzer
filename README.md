@@ -1,0 +1,1 @@
+This Python script analyzes server log files to detect anomalies such as suspicious HTTP status codes , large file transfers, and high request frequency from a single IP. It is designed to help identify potential security threats in server logs.
