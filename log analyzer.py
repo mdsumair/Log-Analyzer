@@ -61,5 +61,5 @@ def run_log_analyzer(log_file_path):
         print("No anomalies detected.")
 
 # Run the analyzer
-log_file_path = r'C:\Users\mohammed sumair khan\Dropbox\PC\Desktop\python projects\4.log analyzer\logfile.log'  # Path to your log file
+log_file_path = r'C:\Vilen\PC\python\projects\loganalyzer\logfile.log'  # Path to your log file
 run_log_analyzer(log_file_path)
